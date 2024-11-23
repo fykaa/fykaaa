@@ -56,7 +56,7 @@
 
 <h1> About </h1> 
  <p> 
-     You'll mostly find me hacking on Kubernetes, I do Istio at work. And my mentors and seniors often call me a rising star ;) Have always loved being in communities as a GitHub Campus expert or Google dev club leader. Open source is my strength and I enjoy creating stuffs - projects, written content, models, etc. as it gives me an outlet to convey my ideas and share my insights!</p>
+     You'll mostly find me hacking on Kubernetes, I do Kargo at work. And my mentors and seniors often call me a rising star ;) Have always loved being in communities as a GitHub Campus expert or Google dev club leader. Open source is my strength and I enjoy creating stuffs - projects, written content, models, etc. as it gives me an outlet to convey my ideas and share my insights!</p>
 
 <!--About Ends-->
     
