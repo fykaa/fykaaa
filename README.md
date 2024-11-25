@@ -106,7 +106,7 @@
 <details>
 <summary> fun things i do in tech (my roles) </summary>
 
-| Achievement                           | Organization              | Selection Rate (~) | Date Achieved |
+| Milestones                           | Organization              | Selection Rate (~) | From |
 | ------------------------------------- | ------------------------- | --------------- | ------------- |
 | CNCF Ambassador | CNCF| - | 05/2024|
 | Google Developer Student Clubs Leader | Google | 3% | 06/2023 |
